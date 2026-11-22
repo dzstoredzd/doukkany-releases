@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "channel": "stable",
+  "environment": "production",
+  "releaseId": "1.2.0-4",
+  "version": "1.2.0",
+  "build": 4,
+  "commitSha": "bfc5fa3f1ec1248ad2f4d2b34f673cbd7399efaf",
+  "productionEligible": true,
+  "releaseNotes": {
+    "ar": "اربط هاتفًا أو حاسوبًا بحاسوب المحل باستخدام رمز قصير من 8 أحرف وأرقام.\nتعرّف على عدد الهواتف والحواسيب التي يمكنك ربطها بترخيص المحل.\nسجّل الخروج بسهولة من قائمة الحساب على الهاتف والحاسوب المرتبطين بالمحل.",
+    "en": "Connect a phone or computer to the shop PC with a short 8-character code.\nSee how many phones and computers you can connect with your shop licence.\nSign out from the account menu on a linked phone or computer.",
+    "fr": "Reliez un téléphone ou un ordinateur au PC du magasin avec un code court de 8 caractères.\nVoyez combien de téléphones et d’ordinateurs votre licence permet de relier.\nDéconnectez-vous depuis le menu du compte sur un appareil relié."
+  },
+  "downloadUrl": "https://github.com/dzstoredzd/doukkany-releases/releases/download/v1.2.0-4/Doukkany-1.2.0-4.exe",
+  "releasePageUrl": "https://github.com/dzstoredzd/doukkany-releases/releases/tag/v1.2.0-4",
+  "sha256": "a7204d3f0ef2885856d6da2b4a8d12bbee61455560cecfb52c2eb5b2c638eaf4",
+  "size": 31854131,
+  "signed": false
+}
