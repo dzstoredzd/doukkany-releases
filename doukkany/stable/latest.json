@@ -2,19 +2,19 @@
   "schemaVersion": 1,
   "channel": "stable",
   "environment": "production",
-  "releaseId": "1.2.1-5",
-  "version": "1.2.1",
-  "build": 5,
-  "commitSha": "d3b23d6abbcb1e2585ec885ea93d593144244830",
+  "releaseId": "1.3.0-6",
+  "version": "1.3.0",
+  "build": 6,
+  "commitSha": "188e7ba06b279457e43494b2b4e4dab91c8e1d06",
   "productionEligible": true,
   "releaseNotes": {
-    "ar": "إصلاح الخطأ 31 عند تحديث خادم المحل على Windows.",
-    "en": "Fixed Error 31 when updating the shop server on Windows.",
-    "fr": "Correction de l’erreur 31 lors de la mise à jour du serveur du magasin sous Windows."
+    "ar": "إعدادات أوضح ومرتبة حسب ما تغيّره.\nيستطيع صاحب المحل اختيار رمزه السري دون إضافة عمّال.\nأرسل لنا مشكلة أو اقتراحًا من داخل التطبيق.\nرقم دعم جديد خاص بـ Doukkany.\nعنوان حاسوب المحل يظهر بوضوح.\nتقارير استخدام لا تحتوي على بيانات محلك، ويمكن إيقافها من الإعدادات.",
+    "en": "Clearer Settings, grouped by what they change.\nThe owner can set their PIN without adding staff.\nSend us a problem or an idea from inside the app.\nNew support number just for Doukkany.\nThe shop PC address is shown clearly.\nUsage reports with no shop data, and you can turn them off in Settings.",
+    "fr": "Réglages plus clairs, rangés selon ce qu’ils changent.\nLe propriétaire peut choisir son code PIN sans ajouter d’employé.\nEnvoyez-nous un problème ou une idée depuis l’application.\nNouveau numéro de support propre à Doukkany.\nL’adresse du PC du magasin s’affiche clairement.\nRapports d’utilisation sans données du magasin, désactivables dans les réglages."
   },
-  "downloadUrl": "https://github.com/dzstoredzd/doukkany-releases/releases/download/v1.2.1-5/Doukkany-1.2.1-5.exe",
-  "releasePageUrl": "https://github.com/dzstoredzd/doukkany-releases/releases/tag/v1.2.1-5",
-  "sha256": "9db2546dcae713edcb1fedbcc83e8bf8c1d29da55dbf13e485b567cc706c88fd",
-  "size": 31852849,
+  "downloadUrl": "https://github.com/dzstoredzd/doukkany-releases/releases/download/v1.3.0-6/Doukkany-1.3.0-6.exe",
+  "releasePageUrl": "https://github.com/dzstoredzd/doukkany-releases/releases/tag/v1.3.0-6",
+  "sha256": "7aad8a55902fde3ff2b347435f880ab776cd831e4e06806d61b5e4436a07e88e",
+  "size": 31957818,
   "signed": false
 }
