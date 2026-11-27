@@ -2,19 +2,19 @@
   "schemaVersion": 1,
   "channel": "stable",
   "environment": "production",
-  "releaseId": "1.4.0-7",
-  "version": "1.4.0",
-  "build": 7,
-  "commitSha": "90db0bfdaa72e0c34925f58f7714fd39a2942e9b",
+  "releaseId": "1.7.0-10",
+  "version": "1.7.0",
+  "build": 10,
+  "commitSha": "412822fbdeb05e2081ea8240ef2d8e61a79dd5d7",
   "productionEligible": true,
   "releaseNotes": {
-    "ar": "في التقارير: اعرف بكم بعت كل منتج، سعرًا بسعر.\nالنسخ الاحتياطي على Google Drive متاح الآن على الحاسوب أيضًا.\nاختيار اللغة أسهل في أول شاشة.\nالأرقام في بطاقات التقارير تظهر كاملة بالعربية.",
-    "en": "In Reports: see each product's sales, price by price.\nGoogle Drive backup now works on the computer too.\nEasier language choice on the first screen.\nNumbers in report cards now show in full in Arabic.",
-    "fr": "Dans les rapports : voyez les ventes de chaque produit, prix par prix.\nLa sauvegarde Google Drive fonctionne aussi sur l’ordinateur.\nChoix de la langue plus simple au premier écran.\nLes chiffres des cartes de rapport s’affichent en entier en arabe."
+    "ar": "حاسوب المحل الجديد يفتح مباشرة على البيع حتى يضع أحدٌ رمزًا سريًّا.\nاختيار اللغة ونشاط المحل بأزرار في الشاشات الأولى.\nيُجهّز حاسوب المحل نفسه ليخدم الهواتف والحواسيب الأخرى.\nإذا تغيّر حاسوب المحل، اربط الهاتف بحاسوب المحل الجديد.\nالهاتف المربوط يفتح على «من يعمل الآن؟» ولا يتوقف.\nالقوائم على الهواتف تبقى تُحمَّل بين الشاشات.\nإزالة أبسط على Windows. رمز جديد: حاسوب المحل مع هاتف.",
+    "en": "A new shop PC opens straight on selling until someone sets a PIN.\nLanguage and shop activity are buttons on the first screens.\nThe shop PC sets itself up to serve phones and other computers.\nIf the shop PC changed, link the phone to the new shop PC.\nA linked phone reopens on \"Who is working?\" and no longer gets stuck.\nLists on phones keep loading between screens.\nSimpler uninstall on Windows. New code: shop PC + one phone.",
+    "fr": "Un nouveau PC de boutique ouvre directement la vente tant que personne n'a de code PIN.\nLangue et activité de la boutique en boutons sur les premiers écrans.\nLe PC de la boutique se prépare seul pour servir téléphones et ordinateurs.\nSi le PC a changé, liez le téléphone au nouveau PC.\nUn téléphone lié se rouvre sur « Qui travaille ? » sans bloquer.\nLes listes sur téléphone se chargent entre les écrans.\nDésinstallation plus simple sur Windows. Nouveau code : PC + un téléphone."
   },
-  "downloadUrl": "https://github.com/dzstoredzd/doukkany-releases/releases/download/v1.4.0-7/Doukkany-1.4.0-7.exe",
-  "releasePageUrl": "https://github.com/dzstoredzd/doukkany-releases/releases/tag/v1.4.0-7",
-  "sha256": "6237871d763fd7973bc8de49e1a1f7a9c0dc06cb6d451d5f242ef52654eb19e0",
-  "size": 32003564,
+  "downloadUrl": "https://github.com/dzstoredzd/doukkany-releases/releases/download/v1.7.0-10/Doukkany-1.7.0-10.exe",
+  "releasePageUrl": "https://github.com/dzstoredzd/doukkany-releases/releases/tag/v1.7.0-10",
+  "sha256": "bc7411b3e95dd3aba583291e8e5be3aeb6d3058378709f3212e085b1dc745412",
+  "size": 32022253,
   "signed": false
 }
